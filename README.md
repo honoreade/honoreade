@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=honoreade&theme=radical)
 > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwisoneye&show_icons=true&theme=radical)
 >
-> Contacts:
+> > Contacts:
 ```
 Email: honoreade44@gmail.com
 ```
